@@ -1,4 +1,4 @@
-🚀 Meu Primeiro Repositório
+# 🚀 Meu Primeiro Repositório
 
 **Teste de conflito**
 # XXXXXXXXXXXXXXXXXXXXX
@@ -19,7 +19,7 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
  
 - HTML
 - CSS
-- JavaScript
+- JavaScript 
 - Git e GitHub
 
 ## 🎯 Objetivo
